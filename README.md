@@ -23,6 +23,7 @@
 ## 📫 How to Reach Me
 📧 Email: **rajeshwarirajeshwari34879@gmail.com**
 🔗 LinkedIn: * https://www.linkedin.com/in/rajeshwari-65411527a/*
+Portfolio: **https://comfy-phoenix-d3f0b5.netlify.app/**
 
 - 🚀 Real-Time Projects
 🔹 *Career AI Project** – AI-based system for career guidance and recommendations  
@@ -30,6 +31,7 @@
 🔹 **Resume Parser** – Machine learning project for resume analysis and data extraction  
 
 👉 Check pinned repositories below ⬇️
+https://github.com/pythonprogrammerRaji/CareerTech-Career-Recommendation-for-Student.git
 
 
 <h3 align="left">Connect with me:</h3>
