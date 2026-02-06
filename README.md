@@ -21,9 +21,9 @@
 - Frontend Development **
 
 ## 📫 How to Reach Me
-📧 Email: **rajeshwarirajeshwari34879@gmail.com**
-🔗 LinkedIn: * https://www.linkedin.com/in/rajeshwari-65411527a/*
-Portfolio: **https://comfy-phoenix-d3f0b5.netlify.app/**
+📧 Email: **rajeshwarirajeshwari34879@gmail.com** </br>
+🔗 LinkedIn: * https://www.linkedin.com/in/rajeshwari-65411527a/*  </br>
+Portfolio: **https://comfy-phoenix-d3f0b5.netlify.app/**  </br>
 
 - 🚀 Real-Time Projects
 🔹 *Career AI Project** – AI-based system for career guidance and recommendations  
