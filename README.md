@@ -20,7 +20,9 @@
 - Basic Machine Learning  
 - Frontend Development **
 
-- 📫 How to reach me **rajeshwarirajeshwari34879@gmail.com**
+## 📫 How to Reach Me
+📧 Email: **rajeshwarirajeshwari34879@gmail.com**
+🔗 LinkedIn: * https://www.linkedin.com/in/rajeshwari-65411527a/*
 
 - 🚀 Real-Time Projects
 🔹 *Career AI Project** – AI-based system for career guidance and recommendations  
