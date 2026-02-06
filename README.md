@@ -9,16 +9,16 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **🌱
-- React.js & React Native  
-- Python Full Stack Development  
-- Machine Learning fundamentals 
+<h3> I’m currently learning </h3>
+- React.js & React Native  </br>
+- Python Full Stack Development  </br>
+- Machine Learning fundamentals </br>
 
-- 💬 Ask me about **
-- HTML, CSS, JavaScript  
-- Python & Flask  
-- Basic Machine Learning  
-- Frontend Development **
+<h3>Ask me about </h3>
+- HTML, CSS, JavaScript  </br>
+- Python & Flask  </br>
+- Basic Machine Learning  </br>
+- Frontend Development </br>
 
 ## 📫 How to Reach Me
 📧 Email: **rajeshwarirajeshwari34879@gmail.com** </br>
