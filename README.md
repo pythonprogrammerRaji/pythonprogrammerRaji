@@ -11,7 +11,7 @@
 
 <h3> I’m currently learning </h3>
 - React.js & React Native  </br>
-- Python Full Stack Development  </br>
+- Python Developer | AI & ML Basics </br>
 - Machine Learning fundamentals </br>
 
 <h3>Ask me about </h3>
@@ -53,3 +53,7 @@ https://github.com/pythonprogrammerRaji/CareerTech-Career-Recommendation-for-Stu
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pythobprogrammerraji&show_icons=true&locale=en&layout=compact" alt="pythobprogrammerraji" /></p>
 
 ⚡ Fun fact: I love turning ideas into working projects more than just reading tutorials.
+
+🤖 AI-Assisted Development
+- Uses an AI-based commit message improver to maintain clean and meaningful commit history
+- Focuses on readable, professional Git workflows
