@@ -22,7 +22,7 @@
 
 ## 📫 How to Reach Me
 📧 Email: **rajeshwarirajeshwari34879@gmail.com** </br>
-🔗 LinkedIn: * https://www.linkedin.com/in/rajeshwari-65411527a/*  </br>
+🔗 LinkedIn: **https://www.linkedin.com/in/rajeshwari-65411527a/**  </br>
 Portfolio: **https://comfy-phoenix-d3f0b5.netlify.app/**  </br>
 
 - 🚀 Real-Time Projects
