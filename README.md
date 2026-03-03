@@ -49,7 +49,7 @@ https://github.com/pythonprogrammerRaji/CareerTech-Career-Recommendation-for-Stu
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Api/Api-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pythobprogrammerraji&show_icons=true&locale=en&layout=compact" alt="pythobprogrammerraji" /></p>
