@@ -9,7 +9,7 @@
 
 <h3>🌱 Currently Learning</h3>
 
-- React.js & React Native
+- React Native
 - Advanced JavaScript (ES6+)
 - Responsive UI & UX Design
 
